@@ -1,3 +1,3 @@
-module github.com/norunners/vert
+module github.com/x0k/vert
 
 go 1.16
